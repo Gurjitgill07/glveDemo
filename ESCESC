@@ -1,0 +1,57 @@
+[33mcommit 83fcd304009d27e5765a6868598232fd7a9b5d21[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: gurjit <gillgurjitsingh55@gmail.com>
+Date:   Sat Nov 9 14:11:05 2024 -0800
+
+    modified files
+
+[1mdiff --git a/abc.txt b/abc.txt[m
+[1mindex 0982eb2..54edea4 100644[m
+[1m--- a/abc.txt[m
+[1m+++ b/abc.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-this is file abc[m
+[32m+[m[32mthis is file abc hhhjhjhj[m
+[41m+[m
+[1mdiff --git a/xyz.txt b/xyz.txt[m
+[1mindex 89628a0..fb03442 100644[m
+[1m--- a/xyz.txt[m
+[1m+++ b/xyz.txt[m
+[36m@@ -1 +1 @@[m
+[31m-this is file xyz[m
+[32m+[m[32mthis is file xyz updated[m[41m [m
+
+[33mcommit bd78a60a9636c47b7da34e488ed3016146261c22[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: gurjit <gillgurjitsingh55@gmail.com>
+Date:   Sat Nov 9 12:46:34 2024 -0800
+
+    adding files abc.txt and xyz.txt
+
+[1mdiff --git a/abc.txt b/abc.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0982eb2[m
+[1m--- /dev/null[m
+[1m+++ b/abc.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mthis is file abc[m
+[1mdiff --git a/xyz.txt b/xyz.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..89628a0[m
+[1m--- /dev/null[m
+[1m+++ b/xyz.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mthis is file xyz[m
+
+[33mcommit e893bd611453a7008a40417ae4d1f4db64b97b52[m
+Author: Gurjitgill07 <gillgurjitsingh55@gmail.com>
+Date:   Sat Nov 9 12:19:05 2024 -0800
+
+    Initial commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ea74188[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m# glveDemo[m
+[32m+[m[32mDemo for Git[m
